@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Τελική Αναφορά
 
-You can use the [editor on GitHub](https://github.com/p15theo2/FinalReport/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Δημιουργία Pacman
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Σπυριδων θεοδωροπουλος Π2015035
 
-### Markdown
+Σύνδεσμος για το [ΑΠΟΘΕΤΗΡΙΟ MM](https://github.com/p15theo2/mm)<br />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Σύνδεσμος [ΑΠΟΘΕΤΗΡΙΟ PACMAN](https://github.com/p15theo2/pacman)<br />
 
-```markdown
-Syntax highlighted code block
+Σύνδεσμος [PACMAN](https://p15theo2.github.io/pacman/)<br />
 
-# Header 1
-## Header 2
-### Header 3
+## Eισαγωγή <br />
+Το θέμα που επιλέχτηκε ήταν η δημιουργία ενος νεου Pacman.Η εργασία βασίστηκε στο repository [pacman](https://github.com/ioniodi/pacman) το οποίο με την βοήθεια της βιβλιοθήκης phaser δίνει τα εργαλεία και τον απολύτως βασικό κώδικα για την ανάπτυξη ενως τέτοιου παιχνιδιου <br />
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Σύνοψη <br />
+Έχουν ολοκληρωθεί όλα παραδοτέα της εργασίας.Αρχικά αντιγράφηκε το αποθετήριο [pacman](https://github.com/ioniodi/pacman) και στη συνέχεια έγιναν αλλαγές έτσι ώστε να ικανοποιηθούν τα βασικά ζητήματα αλλά και επιπλέον ζητήματα τα οποία προέκυψαν λόγω της ανάγκης δημιουργίας ενώς ποιο ολοκληρωμένου παιχνιδίου.<br />
 
-**Bold** and _Italic_ and `Code` text
+## Επιλογή εργαλείων <br />
+Για την ανάπτυξη της εργασίας χρησιμοποιήθηκε το πρόγραμμα BRACKETS .Για την επεξεργασία των εικόνων χρησιμοποιήθηκε το πρόγραμμα PAINT.NET .Οι γλώσσες που χρησιμοποιήθηκαν ήταν οι html και javascript.Η βιβλιοθήκη που χρησιμοποιήθηκε ηταν η phaser.Για την ευρεση των βοηθητικών εικόνων χρησιμοποιήθηκε η αναζήτηση εικόνων της GOOGLE.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/p15theo2/FinalReport/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
